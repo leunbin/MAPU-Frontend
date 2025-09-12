@@ -33,6 +33,6 @@
 ![explore](assets/explore.png)
 <span style="font-size:0.8rem">키워드 선택 기반 또는 지도 제목 검색을 통한 지도 탐색 기능 구현</span>
 
-![mapedit](assets/mapedit.png)
+![mapedit](assets/mapeditdemo.gif)
 <span style="font-size:0.8rem">`marker`, `line`, `polygon` 선택 / 선 굵기 선택 / 색 선택으로 사용자 커스첨 지도 편집 기능 구현</span>
 
